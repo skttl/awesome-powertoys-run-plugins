@@ -51,7 +51,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set and manage timers.
 - [HexInspector](https://github.com/NaroZeol/PowerHexInspector) - Convert numbers between bases.
 - [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
-- [CanIUse](https://github.com/skttl/ptrun-caniuse) - Look up browser features using caniuse.com
+- [CanIUse](https://github.com/skttl/ptrun-caniuse) - Look up browser features using caniuse.com.
 
 ## Resources
 
